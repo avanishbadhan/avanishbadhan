@@ -5,7 +5,6 @@ I'm a high school student interested in **electrical engineering, robotics, and 
 - **Currently working on:** A personal AI assistant called ARIA
 - **Interested in:** Semiconductors, embedded systems, robotics, and AI
 - **Tools I use:** Onshape, KiCad, ESP32
-- **Outside of engineering:** I play classical piano and varsity water polo
 
 ## Projects
 
