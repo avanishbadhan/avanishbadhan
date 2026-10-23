@@ -19,4 +19,4 @@ A personal AI assistant exploring real-time perception, contextual awareness, an
 
 **[Custom Mechanical Keyboard](https://github.com/avanishbadhan/Mechanical-Keyboard)**
 
-A custom-designed mechanical keyboard with an attachable macropad. Designed the PCB and plate, assembled the hardware, and programmed the firmware. Completed in 2025.
+A custom-designed mechanical keyboard with an attachable macropad. Designed the PCB and plate, assembled the hardware, and programmed the firmware.
